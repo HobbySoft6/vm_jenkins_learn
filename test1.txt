@@ -1,6 +1,0 @@
-sss
-<<<<<<< HEAD
-change2
-change3
-=======
->>>>>>> parent of b38254a... 2nd change
